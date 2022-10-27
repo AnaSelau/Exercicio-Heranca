@@ -1,2 +1,2 @@
 # Exercício Herança 
- Exercício em Java da aula Orientação a Objeto
+ Exercício da aula Orientação a Objeto
